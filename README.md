@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hola este repositorio esta hecho para todos 👋
+#Añade la linea que desees.
 
-<!--
-**MarkuzGOD/MarkuzGOD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 
